@@ -1,0 +1,31 @@
+header{
+    background-color: rgb(32 41 35);
+    margin-top: 0px;
+}
+
+.pages{
+    margin: 10px;
+    font-size: 20px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.characterAndPlanetPage{
+    color: rgb(144, 182, 239);
+    margin: 5px;
+    font-size: 20px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    font-weight: 900;
+    text-decoration: none;
+}
+.headerTitle{
+    display: flex;
+    justify-content:flex-end;
+    color:orange;
+    font-size:37px;
+}

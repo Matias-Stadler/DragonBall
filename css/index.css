@@ -1,0 +1,56 @@
+@import url(header.css);
+@import url(footer.css);
+
+.title{
+    font-size:83px;
+    display: flex;
+    justify-content:center;
+    color:orange;
+}
+
+.titles{
+    background-color:darkslategray ;
+}
+.subtitle{
+    display: flex;
+    justify-content:center;
+    color:orange;
+    font-size:37px;
+}
+
+.cardGroup{
+    width: 10em;
+    margin: 20px;
+    border-radius: 20px;
+    background-color: darkslategray;
+    color: rgb(249, 241, 193);
+}
+
+.cardImgTop{
+    width: auto ;
+    max-width: 10em;
+    max-height: 20em;
+    height: auto ;
+}
+
+.characters{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.planets{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.cardTitle{
+    margin-left: 5px;
+}
+
+.cardText{
+    margin-left: 5px;
+}
+body{
+    background-color: darkgrey;
+}
